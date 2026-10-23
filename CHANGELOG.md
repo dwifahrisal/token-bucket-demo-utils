@@ -1,7 +1,10 @@
 # Changelog
 
-## [0.1.0] - initial release
+## [0.1.0] - 2026-01-15
+### Added
+- Initial release
+- Core functionality
 
-- Core implementation
-- Basic CLI interface
-- README with quickstart
+## [Unreleased]
+### Changed
+- Refactored error handling
